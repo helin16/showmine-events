@@ -1,2 +1,1 @@
-# showmine-ui
-# showmine-ui
+# events.showmine.com
